@@ -10,4 +10,6 @@ I have implemented Machine Learning algorithms such as
 
 Also implemented Mathematical Modelling concepts such as 
 1. Seasonal-index
-2. Spline-Interpolation
+2. Spline-Interpolation'
+
+Object Classification using Convolutional Neural Network (ml_package.ipynb)
