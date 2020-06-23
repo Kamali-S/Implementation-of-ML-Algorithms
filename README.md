@@ -1,4 +1,7 @@
 # My-Projects
+
+![Screenshot](ML_algo.jpg)
+
 I have implemented Machine Learning algorithms such as 
 1. Single-layer Perceptron, 
 2. Multi-layer Perceptron for Multi-way classification (Iris-dataset)
